@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Object identification" id="2000" index="0" type="7">63/14/1/0</Property>
+ <Property name="Object identification" id="2000" index="0" type="7">18/14/1/0</Property>
  <Property name="Last editor: ID" id="3010" index="0" type="7"/>
  <Property name="Last editor: Name" id="3011" index="0" type="7"/>
  <Property name="Last editor: Phone" id="3012" index="0" type="7"/>
@@ -12,8 +12,8 @@
  <Property name="Project structure: Higher-level function number" id="10005" index="0" type="7">&lt;1700&gt;</Property>
  <Property name="Project structure: Document type" id="10006" index="0" type="7">&lt;1500&gt;</Property>
  <Property name="Project structure: User-defined structure" id="10007" index="0" type="7"/>
- <Property name="Project name (full)" id="10009" index="0" type="7">E:\正在执行项目\之信项目\Electrical Design\之信项目.elk</Property>
- <Property name="Project path" id="10010" index="0" type="7">E:\正在执行项目\之信项目\Electrical Design</Property>
+ <Property name="Project name (full)" id="10009" index="0" type="7">E:\CurrentProject\之信项目\ZhaoQingAoYouBattery\之信项目.elk</Property>
+ <Property name="Project path" id="10010" index="0" type="7">E:\CurrentProject\之信项目\ZhaoQingAoYouBattery</Property>
  <Property name="Project description" id="10011" index="0" type="7">??_??@之信项目;</Property>
  <Property name="Use page name in DT" id="10012" index="0" type="7">0</Property>
  <Property name="Commission" id="10014" index="0" type="7">de_DE@EPLAN;en_US@EPLAN;nl_NL@EPLAN;fr_FR@EPLAN;es_ES@EPLAN;sv_SE@EPLAN;da_DK@EPLAN;zh_CN@EPLAN;ru_RU@EPLAN;pl_PL@EPLAN;pt_BR@EPLAN;cs_CZ@EPLAN;it_IT@EPLAN;hu_HU@EPLAN;pt_PT@EPLAN;ko_KR@EPLAN;</Property>
@@ -26,15 +26,15 @@
  <Property name="Last editor: Logon name" id="10022" index="0" type="7">YAOBO</Property>
  <Property name="Modification date" id="10023" index="0" type="7">1512094161</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="7">1508307127</Property>
- <Property name="Date" id="10027" index="0" type="7">1512098201</Property>
+ <Property name="Date" id="10027" index="0" type="7">1512115756</Property>
  <Property name="Project start" id="10028" index="0" type="7">1509072071</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Environmental consideration" id="10034" index="0" type="7">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;</Property>
  <Property name="Last EPLAN version used" id="10043" index="0" type="7">2.3.5</Property>
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">7352</Property>
- <Property name="Project path (full)" id="10045" index="0" type="7">E:\正在执行项目\之信项目\Electrical Design</Property>
+ <Property name="Project path (full)" id="10045" index="0" type="7">E:\CurrentProject\之信项目\ZhaoQingAoYouBattery</Property>
  <Property name="Creation time" id="10046" index="0" type="7">10:33:03</Property>
- <Property name="Modification time" id="10047" index="0" type="7">11:41:48</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">10:09:21</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">14:12:07</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10006&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
