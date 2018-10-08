@@ -24,9 +24,9 @@
  <Property name="Creator" id="10020" index="0" type="7">YAOBO</Property>
  <Property name="Creation date" id="10021" index="0" type="14">1509071583</Property>
  <Property name="Last editor: Logon name" id="10022" index="0" type="7">YAOBO</Property>
- <Property name="Modification date" id="10023" index="0" type="14">1520920675</Property>
+ <Property name="Modification date" id="10023" index="0" type="14">1524285627</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="14">1508307127</Property>
- <Property name="Date" id="10027" index="0" type="14">1521038598</Property>
+ <Property name="Date" id="10027" index="0" type="14">1538296512</Property>
  <Property name="Project start" id="10028" index="0" type="14">1509072071</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Environmental consideration" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;</Property>
@@ -34,7 +34,7 @@
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">10395</Property>
  <Property name="Project path (full)" id="10045" index="0" type="7">D:\CurrentProject\ZhaoQingAoYouBattery</Property>
  <Property name="Creation time" id="10046" index="0" type="7">10:33:03 AM</Property>
- <Property name="Modification time" id="10047" index="0" type="7">1:57:55 PM</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">12:40:27 PM</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">2:12:07 PM</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10006&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -65,7 +65,7 @@
  <Property name="Number of frozen pages per page type" id="10065" index="14" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="15" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="16" type="4">0</Property>
- <Property name="Number of frozen pages per page type" id="10065" index="17" type="4">1</Property>
+ <Property name="Number of frozen pages per page type" id="10065" index="17" type="4">2</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="18" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="19" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="20" type="4">0</Property>
@@ -83,7 +83,7 @@
  <Property name="Number of frozen pages per page type" id="10065" index="32" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="33" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="34" type="4">0</Property>
- <Property name="Number of frozen pages per page type" id="10065" index="35" type="4">1</Property>
+ <Property name="Number of frozen pages per page type" id="10065" index="35" type="4">2</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="36" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="37" type="4">0</Property>
  <Property name="Number of frozen pages per page type" id="10065" index="38" type="4">0</Property>
@@ -139,14 +139,14 @@
  <Property name="Revision: Original project name" id="10149" index="0" type="7"/>
  <Property name="Unique project ID" id="10184" index="0" type="7">elk1@1509071659</Property>
  <Property name="License number of dongle" id="10185" index="0" type="7">WUP0U10066</Property>
- <Property name="Number of pages per page type" id="10200" index="1" type="4">99</Property>
- <Property name="Number of pages per page type" id="10200" index="2" type="4">3</Property>
+ <Property name="Number of pages per page type" id="10200" index="1" type="4">198</Property>
+ <Property name="Number of pages per page type" id="10200" index="2" type="4">6</Property>
  <Property name="Number of pages per page type" id="10200" index="3" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="4" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="5" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="6" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="7" type="4">0</Property>
- <Property name="Number of pages per page type" id="10200" index="8" type="4">6</Property>
+ <Property name="Number of pages per page type" id="10200" index="8" type="4">12</Property>
  <Property name="Number of pages per page type" id="10200" index="9" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="10" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="11" type="4">0</Property>
@@ -155,7 +155,7 @@
  <Property name="Number of pages per page type" id="10200" index="14" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="15" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="16" type="4">0</Property>
- <Property name="Number of pages per page type" id="10200" index="17" type="4">1</Property>
+ <Property name="Number of pages per page type" id="10200" index="17" type="4">2</Property>
  <Property name="Number of pages per page type" id="10200" index="18" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="19" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="20" type="4">0</Property>
@@ -173,7 +173,7 @@
  <Property name="Number of pages per page type" id="10200" index="32" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="33" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="34" type="4">0</Property>
- <Property name="Number of pages per page type" id="10200" index="35" type="4">1</Property>
+ <Property name="Number of pages per page type" id="10200" index="35" type="4">2</Property>
  <Property name="Number of pages per page type" id="10200" index="36" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="37" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="38" type="4">0</Property>
@@ -313,9 +313,9 @@
  <Property name="Last modification time per page type" id="10251" index="48" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="49" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="50" type="7"/>
- <Property name="Total no. of pages" id="10300" index="0" type="4">110</Property>
- <Property name="Created pages" id="10301" index="0" type="4">108</Property>
- <Property name="Generated report pages" id="10302" index="0" type="4">2</Property>
+ <Property name="Total no. of pages" id="10300" index="0" type="4">220</Property>
+ <Property name="Created pages" id="10301" index="0" type="4">216</Property>
+ <Property name="Generated report pages" id="10302" index="0" type="4">4</Property>
  <Property name="Project status" id="10303" index="0" type="7">11&#9;1&#9;Terminals&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;2&#9;Plugs&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;3&#9;Cables&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;4&#9;PLC / bus&#9;&#9;&#9;&#9;0&#9;0&#9;6&#9;5&#9;Connections&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;7&#9;Devices&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;8&#9;Foreign languages&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;10&#9;Cross-references&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;11&#9;Interruption points&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;12&#9;2D panel layout&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Parts data&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Macro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Reports&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;16&#9;Black boxes&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;17&#9;DT&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;18&#9;Data transfer EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Data transfer EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Project comparison&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Placeholder objects&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Other&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;23&#9;PPE&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;24&#9;Fluid power&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Project settings&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;3D mounting layout&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topology&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Pre-planning &#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Pre-planning depth&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Subprojects&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Drilling pattern&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Wire harness&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Part master data&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;External&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
  <Property name="Number of layout spaces" id="10304" index="0" type="4">0</Property>
  <Property name="Internal: Page format name" id="10400" index="0" type="15">##_##@703/SchemeDataProject;</Property>
